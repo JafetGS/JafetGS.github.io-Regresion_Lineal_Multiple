@@ -1,4 +1,4 @@
-# JafetGS.github.io-Regresion_Lineal_Multiple
+# Regresión Lineal Múltiple
 
 En este proyecto se pretende explorar de forma básica determinar perfiles aerodinámicos ideales ante distintas condiciones, como: la velocidad del
 viento y ángulo de ataque del mismo. Para lograrlo, se utilizó una base de datos creada por la NASA.
